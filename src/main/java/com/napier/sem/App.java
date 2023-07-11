@@ -80,8 +80,7 @@ public class App
             }
         }
     }
-}
-public Employee getEmployee(int ID)
+    public Employee getEmployee(int ID)
     {
         try
         {
@@ -114,3 +113,4 @@ public Employee getEmployee(int ID)
             return null;
         }
     }
+}
